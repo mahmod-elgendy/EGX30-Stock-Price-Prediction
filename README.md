@@ -7,6 +7,8 @@
 ## 📌 Project Overview
 This project aims to predict the stock prices of the **top 30 companies in the Egyptian stock market (EGX30)** until **2027** using a robust machine learning model. Our approach achieves an **R² score of 99%**, ensuring high accuracy in stock price forecasts.
 
+![Description](Plot.png)
+
 ## 🔬 Methodology
 The model utilizes a **complex blending** approach, combining:
 - **LSTM (Long Short-Term Memory) - 80% weight**
