@@ -27,6 +27,3 @@ This weighted blending technique enhances predictive accuracy by leveraging the 
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to fork the repo, open an issue, or submit a pull request.
-
----
-📢 **Stay tuned for updates as we enhance prediction accuracy and bring more features!** 🚀
