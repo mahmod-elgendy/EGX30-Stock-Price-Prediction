@@ -23,7 +23,6 @@ This weighted blending technique enhances predictive accuracy by leveraging the 
 ## 🏗 Future Plans
 - **Fine-tuning hyperparameters** for improved performance
 - **Exploring additional feature engineering techniques**
-- **Deploying the model via an interactive web application**
 - **Adding real-time stock market data integration**
 
 ## 🤝 Contributing
