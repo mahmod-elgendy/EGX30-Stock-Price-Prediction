@@ -27,5 +27,8 @@ This weighted blending technique enhances predictive accuracy by leveraging the 
 - **Exploring additional feature engineering techniques**
 - **Adding real-time stock market data integration**
 
-## 🤝 Contributing
+## Contributors
+- Mahmoud Elgendy 
+- Jana Shams
+
 We welcome contributions! Feel free to fork the repo, open an issue, or submit a pull request.
